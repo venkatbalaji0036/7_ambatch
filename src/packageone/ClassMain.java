@@ -14,6 +14,8 @@ import org.testng.annotations.BeforeTest;
 
 public class ClassMain extends Course_Schedule{
 	
+	
+	//This is a comment in class main
 	@BeforeTest
 	public void MethodMain() throws IOException, InterruptedException {
 		
