@@ -14,6 +14,8 @@ import org.testng.annotations.BeforeTest;
 
 public class ClassMain extends Course_Schedule{
 	
+	//This is a sample commit in main for branch Sample_Test_Two
+	
 	@BeforeTest
 	public void MethodMain() throws IOException, InterruptedException {
 		
